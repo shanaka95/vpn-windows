@@ -1,0 +1,15 @@
+{
+
+    "servers": [
+      {"country": "Germany - Frankfurt", "ip": "free-de.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"ger.png" ,"tag":"gr"},
+      {"country": "USA - Montreal", "ip": "free-us.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"us.png","tag":"us"},
+      {"country": "USA - East", "ip": "free-us-east.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"us.png","tag":"us"},
+      {"country": "USA - West", "ip": "free-us-west.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"us.png","tag":"us"},
+      {"country": "Netherlands - Roosendaal", "ip": "free-nl.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"net.png","tag":"net"},
+      {"country": "Canada - Montreal", "ip": "free-ca.hide.me","username": "shanaka95", "password": "shanakashanaka123", "image":"can.png","tag":"can"},
+
+    ]
+
+
+
+}
